@@ -36,7 +36,6 @@ Here are the main technologies I work with, validated by my professional experie
 * **Full-Stack Development:** Building applications with React (Next.js) and Node.js/Flask.
 * **Data Automation:** Designing and managing ETL pipelines between Zoho, Python, and BigQuery.
 * **Cloud Deployment:** Utilizing Google Cloud Platform (GCP), AWS, and Vercel for scalable application hosting.
-* **Portfolio/Website:** [https://pintu-kumar-jha-zf3p49h.gamma.site]
 
 ---
 
@@ -44,3 +43,4 @@ Here are the main technologies I work with, validated by my professional experie
 
 * **LinkedIn:** [Pintukumar Jha on LinkedIn](https://www.linkedin.com/in/pintu76/)
 * **Email:** [kumar.pintujha76@gmail.com](mailto:kumar.pintujha76@gmail.com)
+* **Portfolio/Website:** [https://pintu-kumar-jha-zf3p49h.gamma.site]
