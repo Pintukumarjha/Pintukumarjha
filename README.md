@@ -1,4 +1,4 @@
-# Hi, I'm Pintukumar Jha 👋 | Full-Stack Developer & Data Automation Specialist
+# Hi, I'm Pintukumar Jha 👋 | Software Developer & Data Automation Specialist
 
 ---
 
