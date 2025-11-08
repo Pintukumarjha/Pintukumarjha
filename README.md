@@ -1,4 +1,4 @@
-# Hi, I'm Pintukumar Jha 👋 | Software Developer & Data Automation Specialist
+# Hi, I'm Pintukumar Jha 👋 | Software Developer & Python Developer
 
 ---
 
