@@ -16,12 +16,13 @@ Here are the main technologies I work with, validated by my professional experie
 | :--- | :--- |
 | **Languages** | **Python**, **JavaScript** , **Java**, **SQL** |
 | **Frontend** | React, Next.js, SCSS/Tailwind CSS |
-| **Backend/Cloud**| Node.js, Flask, REST APIs, **GCP**, **AWS** |
+| **Backend/Cloud**| Flask, Node.js, REST APIs, **GCP**, **AWS** |
 | **Data & DevOps**| **BigQuery**, PostgreSQL, MySQL Docker, Git & GitHub, ETL Pipelines |
 | **Tools & Platforms**| Zoho Creator, Looker Studio, Postman |
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
